@@ -26,16 +26,16 @@ functions.
 7. Write a script that prints the result of the addition of 128 with the value
 stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
 
-8. Write a script that prints the result of `POWER` divided by `DIVIDE`, followed
+8. A script that prints the result of `POWER` divided by `DIVIDE`, followed
 by a new line.
 
   * `POWER` and `DIVIDE` are environment variables
 
-9. Write a script that displays the result of `BREATH` to the power `LOVE`
+9. A script that displays the result of `BREATH` to the power `LOVE`
 
   * `BREATH` and `LOVE` are environment variables
  
-10. Write a script that converts a number from base 2 to base 10.
+10. Converts a number from base 2 to base 10.
 
   * The number in base 2 is stored in the environment variable `BINARY`
   * The script should display the number in base 10, followed by a new line
@@ -44,21 +44,20 @@ by a new line.
 11. Create a script that prints all possible combinations of two letters, except
 `oo`.
 
-12. Write a script that prints a number with two decimal places.
+12. Prints a number with two decimal places.
 
 The number will be stored in the environment variable `NUM`.
 
-13. Write a script that converts a number from base 10 to base 16.
+13. A script that converts a number from base 10 to base 16.
 
   * The number in base 10 is stored in the environment variable `DECIMAL`
   
-14. Write a script that encodes and decodes text using the rot13 encryption.
+14. Encodes and decodes text using the rot13 encryption.
 
-15. Write a script that prints every other line from the input, starting with 
+15. Script that prints every other line from the input, starting with 
 the first line.
 
-16. Write a shell script that adds the two numbers stored in the environment
-variables `WATER` and `STIR` and prints the result.
+16. Adds the two numbers stored in the environment variables; `WATER` and `STIR` and prints the result.
 
   * `WATER` is in base `water`
   * `STIR` is in base `stir.`
