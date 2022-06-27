@@ -1,11 +1,10 @@
-## Bash Shell Scripts :octocat:
-> Each directory in this repository demostrates essential concepts of DevOps.
+## Shell, I/O Redirections and filters :octocat:
 
-### Built with
-* CLI
-* Bash scripts
-* OS: Ubuntu 14.04 LTS
+### Shell, I/O Redirection
+* head, tail, find, wc, sort, uniq, grep, tr
+
+### Special Characters
+* White spaces, single quotes, double quotes, backslash, comment, and pipe
 
 ### Authors
 George H. KYAMBADDE [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/hk14_h)
-
